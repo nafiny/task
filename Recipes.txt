@@ -3,3 +3,6 @@ welcome to recipes
 rice
 polao
 potato
+
+cola
+lemon
